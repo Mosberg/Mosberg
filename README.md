@@ -1,6 +1,6 @@
 # Hey There, I'm Mosberg
 
-=========================
+---
 
 ## A Little About Me
 
