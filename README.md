@@ -1,6 +1,4 @@
-Mosberg's README /\* Color palette \*/ :root { --primary-color: #3498db; --secondary-color: #f1c40f; --background-color: #f9f9f9; --text-color: #333; } /\* Global styles \*/ body { font-family: Arial, sans-serif; background-color: var(--background-color); color: var(--text-color); line-height: 1.6; } /\* Headings \*/ h1 { font-size: 36px; color: var(--primary-color); margin-bottom: 10px; } h2 { font-size: 24px; color: var(--secondary-color); margin-bottom: 10px; } h3 { font-size: 18px; color: var(--primary-color); margin-bottom: 10px; } /\* Bold text \*/ strong { font-weight: bold; color: var(--primary-color); } /\* Lists \*/ ul { list-style: none; padding: 0; margin: 0; } li { padding: 10px; border-bottom: 1px solid #ccc; } li:last-child { border-bottom: none; } /\* Code blocks \*/ code { background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc; } /\* Horizontal rule \*/ hr { border: none; height: 1px; background-color: #ccc; } /\* Custom styles \*/ .about-me { margin-top: 20px; } .about-me ul { margin-top: 10px; } .interests { margin-top: 20px; } .interests ul { margin-top: 10px; }
-
-Hey there, folks!
+# Hey there, folks!
 =================
 
 **I'm Mosberg, and I thought I'd kick off this little introduction with a warm hello and share some tidbits about myself.**
