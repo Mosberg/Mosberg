@@ -45,10 +45,12 @@ When it's time to unwind, I'm all about those laid-back moments with my buddies 
 
 When I'm not coding or whipping up treats, you can find me:
 
-- **Reading:** I love getting lost in a good book, especially if it's about science, history, or philosophy.
+- **Learning:** I love getting lost in a good tutorial or guide, especially if it's about coding, ai and computer science.
 - **Gaming:** I'm a bit of a retro gamer at heart, but I also enjoy playing newer games with friends.
-- **Traveling:** There's something about exploring new places and experiencing different cultures that really gets me going.
+- **Traveling:** There's something about exploring new places and experiencing different cultures that really gets me going sadly I have not had the possibilities yet to visit many different places.
 
 ---
 
-So, that's me in a nutshell! I hope you've enjoyed learning a bit more about me, and I look forward to getting to know you better too.
+So, that's me in a nutshell!
+
+I hope you've enjoyed learning a bit more about me, and I look forward to getting to know you better too.
