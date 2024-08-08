@@ -57,6 +57,27 @@ I hope you've enjoyed learning a bit more about me, and I look forward to gettin
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/mosberg?style=social)](https://github.com/mosberg)
-[![GitHub stars](https://img.shields.io/github/stars/mosberg?style=social)](https://github.com/mosberg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mosberg?style=social)](https://twitter.com/mosberg)
+GitHub Badges
+
+Followers: [![GitHub followers](https://img.shields.io/github/followers/mosberg?style=social)](https://github.com/mosberg)
+Stars: [![GitHub stars](https://img.shields.io/github/stars/mosberg?style=social)](https://github.com/mosberg)
+Forks: [![GitHub forks](https://img.shields.io/github/forks/mosberg?style=social)](https://github.com/mosberg)
+Issues: [![GitHub issues](https://img.shields.io/github/issues/mosberg?style=social)](https://github.com/mosberg)
+Pull Requests: [![GitHub pull requests](https://img.shields.io/github/issues-pr/mosberg?style=social)](https://github.com/mosberg)
+Social Media Badges
+
+Twitter Follow: [![Twitter Follow](https://img.shields.io/twitter/follow/mosberg?style=social)](https://twitter.com/mosberg)
+Facebook Follow: [![Facebook Follow](https://img.shields.io/facebook/follow/mosberg?style=social)](https://facebook.com/mosberg)
+Instagram Follow: [![Instagram Follow](https://img.shields.io/instagram/follow/mosberg?style=social)](https://instagram.com/mosberg)
+LinkedIn Follow: [![LinkedIn Follow](https://img.shields.io/linkedin/follow/mosberg?style=social)](https://linkedin.com/in/mosberg)
+Programming Language Badges
+
+JavaScript: [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com)
+Python: [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org)
+Java: [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)](https://www.java.com)
+C++: [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)](https://isocpp.org)
+Other Badges
+
+License: [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Build Status: [![Build Status](https://img.shields.io/travis/mosberg/Mosberg.svg?branch=master)](https://travis-ci.org/mosberg/Mosberg)
+Code Coverage: [![Code Coverage](https://img.shields.io/codecov/c/github/mosberg/Mosberg.svg)](https://codecov.io/gh/mosberg/Mosberg)
