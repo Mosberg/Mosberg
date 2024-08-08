@@ -61,9 +61,9 @@ I hope you've enjoyed learning a bit more about me, and I look forward to gettin
 
 ## GitHub Badges
 
-Followers: [![GitHub followers](https://img.shields.io/github/followers/mosberg?style=social)](https://github.com/mosberg)
+[![GitHub followers](https://img.shields.io/github/followers/mosberg?style=social)](https://github.com/mosberg)
 
-Stars: [![GitHub stars](https://img.shields.io/github/stars/mosberg?style=social)](https://github.com/mosberg)
+[![GitHub stars](https://img.shields.io/github/stars/mosberg?style=social)](https://github.com/mosberg)
 
 ## Programming Language Badges
 
@@ -81,4 +81,4 @@ Stars: [![GitHub stars](https://img.shields.io/github/stars/mosberg?style=social
 
 ## Other Badges
 
-License: [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
