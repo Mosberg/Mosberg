@@ -1,4 +1,4 @@
-# ✨Profile README ✨ - A special repository for your GitHub Profile.
+# ✨Profile README ✨ - A cool spot I've set up just for my GitHub Profile!
 
 ## Hey everyone! 👋
 
